@@ -26,3 +26,4 @@ The designs were created to the following widths:
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
+Improve your front-end skills by building projects
